@@ -6,7 +6,7 @@ THIS VERSION IS A DRAFT -- IT IS NOT OFFICIALLY ENDORSED.
 
 ## Preamble 
 
-The goals of a higher education our often aided by the use of modern software. The advent of Artificial Intelligence (AI) software applications can indeed be powerful additions to the toolbox students employ in higher education. However, misuse of AI can run afoul of academic honor codes. This policy document is meant to clarify and elucidate some of the finer points around the use of AI.
+The goals of a higher education are often aided by the use of modern software. The advent of Artificial Intelligence (AI) software applications can indeed be powerful additions to the toolbox students employ in higher education. However, misuse of AI can run afoul of academic honor codes. This policy document is meant to clarify and elucidate some of the finer points around the use of AI.
 
 ## Policy
 
