@@ -24,7 +24,7 @@ The goals of a higher education our often aided by the use of modern software. T
 
 ## Examples 
 
-The follow are example usages of AI that augment but do not superced those given in the [Definitions & Examples of Academic Misconduct](https://sa.berkeley.edu/conduct/integrity/definition), including forms of cheating, Plagiarism, and False Information and Representation, Fabrication or Alteration of Information.
+The follow are example usages of AI that augment but do not supercede those given in the [Definitions & Examples of Academic Misconduct](https://sa.berkeley.edu/conduct/integrity/definition), including forms of cheating, Plagiarism, and False Information and Representation, Fabrication or Alteration of Information.
 
 ### Unacceptable Usage
   
